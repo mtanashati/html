@@ -1,0 +1,6 @@
+<?$Site_Name = '제작홈페이지';
+$Site_URL = 'http://onepass.altodesign.co.kr';
+$Host		=	'localhost';
+$Database	=	'alto_onepass';
+$DBUser		=	'alto_onepass';
+$DBUser_Pass	=	'widwid1221';?>
