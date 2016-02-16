@@ -22,7 +22,7 @@
       <td height="40" bgcolor="#0066CC"><div align="center">
         <table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td height="45"><div align="center" class="style1 style2"><a href="../">Home</a></div></td>
+            <td height="45"><div align="center" class="style1 style2"><a href="/~polyphysics/">Home</a></div></td>
             <td><div align="center" class="style4"><a href="/~polyphysics/01/">Professor</a></div></td>
             <td><div align="center" class="style4"><a href="/~polyphysics/02/">Research</a></div></td>
             <td><div align="center" class="style4"><a href="/~polyphysics/03/">People</a></div></td>
